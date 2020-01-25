@@ -759,8 +759,8 @@ $settings['entity_update_backup'] = TRUE;
 #   include $app_root . '/' . $site_path . '/settings.local.php';
 # }
 $databases['default']['default'] = array (
-  'database' => 'lweb',
-  'username' => 'root',
+  'database' => 'lweb_lweb',
+  'username' => 'lweb_root',
   'password' => '!eG13zz63$$$',
   'prefix' => '',
   'host' => 'localhost',
